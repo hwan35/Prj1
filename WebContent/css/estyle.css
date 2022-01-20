@@ -1,0 +1,21 @@
+a.btn{
+	display:inline-block;
+	padding:7px;
+	border:1px solid #d9ded9;
+	background:#f2f5f9;
+	color:#000;
+	text-decoration:none;
+	vertical-align: middle;
+	}
+
+input[type=submit] {
+	display:inline-block;
+	font-size: 15px;
+	font-weight: bold;
+	padding:9px;
+	border:1px solid #d9ded9;
+	background:#f2f5f9;
+	color:#000;
+	text-decoration:none;
+	vertical-align: middle;
+}

@@ -1,0 +1,18 @@
+table{
+	width: 600px;
+}
+table td{
+	float: left;
+	line-height: 1.5;
+	padding-left: 15px;
+}
+
+a.btn{
+	display:inline-block;
+	padding:7px;
+	border:1px solid #d9ded9;
+	background:#f2f5f9;
+	color:#000;
+	text-decoration:none;
+	vertical-align:middle
+	}

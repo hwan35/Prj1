@@ -1,0 +1,18 @@
+table{
+	width: 800px;
+	border-top: 2px solid #ccc;
+	line-height: 1.5;
+	text-align: center;
+}
+table td{
+	border-top: 1px solid #ccc;
+}
+a.btn{
+	display:inline-block;
+	padding:7px;
+	border:1px solid #d9ded9;
+	background:#f2f5f9;
+	color:#000;
+	text-decoration:none;
+	vertical-align: middle;
+	}
