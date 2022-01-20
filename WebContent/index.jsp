@@ -9,6 +9,7 @@
 <body>
 <h3>index.jsp</h3>
 <h3>HWANG JIHWAN</h3>
+<h1>HWANG JIHWAN</h1>
 <a href="bowling/bowlNotice.do">게시판</a>
 </body>
 </html>
